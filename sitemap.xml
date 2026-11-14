@@ -1,44 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/</loc>
+    <loc>https://gta6-offical.github.io/</loc>
     <lastmod>2026-11-14</lastmod>
-    <image:image><image:loc>https://jackjohnes2113.github.io/gta6-explained/content/study-desk-map-1280.webp</image:loc></image:image>
+    <image:image><image:loc>https://gta6-offical.github.io/files/study-desk-map-1280.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/about/</loc>
-    <lastmod>2026-11-14</lastmod>
-  </url>
-  <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/editions-explained/</loc>
+    <loc>https://gta6-offical.github.io/about/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/glossary/</loc>
+    <loc>https://gta6-offical.github.io/accessibility/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/how-we-verify/</loc>
+    <loc>https://gta6-offical.github.io/avoid-scams/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/ratings-parents/</loc>
+    <loc>https://gta6-offical.github.io/console-prep/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/series-history/</loc>
+    <loc>https://gta6-offical.github.io/editions-explained/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/single-player-online/</loc>
+    <loc>https://gta6-offical.github.io/glossary/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/still-unknown/</loc>
+    <loc>https://gta6-offical.github.io/how-we-verify/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
   <url>
-    <loc>https://jackjohnes2113.github.io/gta6-explained/why-it-matters/</loc>
+    <loc>https://gta6-offical.github.io/leonida-florida/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/preorder-preload/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/ratings-parents/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/series-history/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/single-player-online/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/still-unknown/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/vice-city-history/</loc>
+    <lastmod>2026-11-14</lastmod>
+  </url>
+  <url>
+    <loc>https://gta6-offical.github.io/why-it-matters/</loc>
     <lastmod>2026-11-14</lastmod>
   </url>
 </urlset>

@@ -187,4 +187,4 @@ Disallow: /
 User-agent: OAI-SearchBot
 Disallow: /
 
-Sitemap: https://jackjohnes2113.github.io/gta6-explained/sitemap.xml
+Sitemap: https://gta6-offical.github.io/sitemap.xml
